@@ -6,3 +6,4 @@ Creating a new branch is quick AND simple.
 merge without ff
 try stash now.
 conflicts against workmate.
+origin dev change.
